@@ -24,10 +24,7 @@ public class Programm {
         //необходимо использовать сылочные типа, а не примитивниые
         //если требуется применять примитивные типы то необходимо использовать их класы обвёртки
         //int-Integer,boolean-Boolean,double-Double,long-Long
-        //444
-        for(int i=0;i<=100;i++)
-
-        {
+        for(int i=0;i<=100;i++){
             list.add(i);
             System.out.print(list.get(i)+" ");
         }
