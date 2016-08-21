@@ -25,7 +25,7 @@ public class Programm {
         //если требуется применять примитивные типы то необходимо использовать их класы обвёртки
         //int-Integer,boolean-Boolean,double-Double,long-Long
         for(int i=0;i<=100;i++)
-        i=8;
+
         {
             list.add(i);
             System.out.print(list.get(i)+" ");
